@@ -25,3 +25,6 @@
 [submodule "Sketch-ArtboardTricks"]
 	path = Sketch-ArtboardTricks
 	url = https://github.com/romannurik/Sketch-ArtboardTricks
+[submodule "quickcolor"]
+	path = quickcolor
+	url = https://github.com/colesperks/quickcolor
