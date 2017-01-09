@@ -19,3 +19,6 @@
 [submodule "RenameIt"]
 	path = RenameIt
 	url = https://github.com/rodi01/RenameIt
+[submodule "gb-sketch-segmentcircle"]
+	path = gb-sketch-segmentcircle
+	url = https://github.com/design4use/gb-sketch-segmentcircle
