@@ -16,3 +16,6 @@
 [submodule "sketch-palettes"]
 	path = sketch-palettes
 	url = https://github.com/andrewfiorillo/sketch-palettes
+[submodule "RenameIt"]
+	path = RenameIt
+	url = https://github.com/rodi01/RenameIt
