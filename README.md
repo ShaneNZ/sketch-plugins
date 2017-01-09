@@ -7,19 +7,19 @@ All the plugins I use regularly, in one repo, for easy updating.
 Because Sketch Toolbox doesn't update plugins any more, and I'm tired of doing it manually. I want to do one "check for updates" thing every so often, and have it magically happen for me.
 
 ## So how does this work?
-Each plugin I use is added to this repo as a submodule. This approach isn't intended for working on the individual plugins ( there's probably a way of doing that, it's just not something I'm doing at the moment).
+Each plugin I use is added to this repo as a submodule. This approach isn't intended for working on the individual plugins (there's probably a way of doing that, but I haven't looked. It's not something I'm doing at the moment).
 
 To kick it off, open the Sketch plugins directory and then:
 
     git clone --recursive https://github.com/shanenz/sketch-plugins.git'
     
-This will give you sketch-plugins folder with all the plugin/submodules in it. This just keeps your "managed" plugins apart from any other plugins you might install by double clicking on them or whatever. It doesn't affect how they're used in Sketch.
+This will give you sketch-plugins folder with all the plugin/submodules in it. This just keeps your "managed" plugins apart from any other plugins you might install by double clicking on them or getting from other places, so you can try plugins without affecting your "kept" ones. Having them in a subfolder doesn't affect how they're used in Sketch.
 
 To add a new plugin to the list, **make sure you're in the sketch-plugins folder:**
 
     git submodule add https://github.com/design4use/gb-sketch-segmentcircle "added segmentcircle" 
 
-To update all your plugins:
+To update all your plugins, **make sure you're in the sketch-plugins folder:**:
 
     git submodule foreach --recursive git pull origin master
 
