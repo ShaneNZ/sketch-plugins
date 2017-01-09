@@ -4,3 +4,6 @@
 [submodule "copy-paste-guides"]
 	path = copy-paste-guides
 	url = https://github.com/pixelpillow/copy-paste-guides
+[submodule "Sketch-Layer-Tools"]
+	path = Sketch-Layer-Tools
+	url = https://github.com/hrescak/Sketch-Layer-Tools
