@@ -7,3 +7,9 @@
 [submodule "Sketch-Layer-Tools"]
 	path = Sketch-Layer-Tools
 	url = https://github.com/hrescak/Sketch-Layer-Tools
+[submodule "sketch-guides"]
+	path = sketch-guides
+	url = https://github.com/luvmex/sketch-guides
+[submodule "MagicMirror"]
+	path = MagicMirror
+	url = https://github.com/MagicSketch/MagicMirror
