@@ -22,3 +22,6 @@
 [submodule "gb-sketch-segmentcircle"]
 	path = gb-sketch-segmentcircle
 	url = https://github.com/design4use/gb-sketch-segmentcircle
+[submodule "Sketch-ArtboardTricks"]
+	path = Sketch-ArtboardTricks
+	url = https://github.com/romannurik/Sketch-ArtboardTricks
