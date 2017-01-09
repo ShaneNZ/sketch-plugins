@@ -31,3 +31,6 @@
 [submodule "sketch-constrain-proportions"]
 	path = sketch-constrain-proportions
 	url = https://github.com/ShaneNZ/sketch-constrain-proportions
+[submodule "butter-sketch-plugin"]
+	path = butter-sketch-plugin
+	url = https://github.com/pberrecloth/butter-sketch-plugin
