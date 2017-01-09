@@ -37,4 +37,5 @@ Plugins that don't have a Github repo:
 - Send to Flinto
 
 ### Disclaimer
-There's probably a better way to do it, but I'm no Github expert. This way works but if there's a better way, then please let me know :)
+There's probably a better way to do this, but I'm no Github expert. This way works but if you have something better, then please let me know :)
+
