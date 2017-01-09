@@ -1,3 +1,6 @@
 [submodule "Prism"]
 	path = Prism
 	url = https://github.com/ment-mx/Prism
+[submodule "copy-paste-guides"]
+	path = copy-paste-guides
+	url = https://github.com/pixelpillow/copy-paste-guides
