@@ -13,3 +13,6 @@
 [submodule "MagicMirror"]
 	path = MagicMirror
 	url = https://github.com/MagicSketch/MagicMirror
+[submodule "sketch-palettes"]
+	path = sketch-palettes
+	url = https://github.com/andrewfiorillo/sketch-palettes
