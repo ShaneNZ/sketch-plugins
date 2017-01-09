@@ -28,3 +28,6 @@
 [submodule "quickcolor"]
 	path = quickcolor
 	url = https://github.com/colesperks/quickcolor
+[submodule "sketch-constrain-proportions"]
+	path = sketch-constrain-proportions
+	url = https://github.com/ShaneNZ/sketch-constrain-proportions
