@@ -34,3 +34,6 @@
 [submodule "butter-sketch-plugin"]
 	path = butter-sketch-plugin
 	url = https://github.com/pberrecloth/butter-sketch-plugin
+[submodule "sketch-nudged"]
+	path = sketch-nudged
+	url = https://github.com/KevinWoodhouse/sketch-nudged
