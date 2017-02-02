@@ -34,3 +34,6 @@
 [submodule "sketch-nudged"]
 	path = sketch-nudged
 	url = https://github.com/KevinWoodhouse/sketch-nudged
+[submodule "sketch-styles-generator"]
+	path = sketch-styles-generator
+	url = https://github.com/lucaorio/sketch-styles-generator
