@@ -40,3 +40,6 @@
 [submodule "Sketch-Find-And-Replace"]
 	path = Sketch-Find-And-Replace
 	url = https://github.com/mscodemonkey/Sketch-Find-And-Replace
+[submodule "sketch-color-picker-plus"]
+	path = sketch-color-picker-plus
+	url = https://github.com/heysketch/sketch-color-picker-plus
