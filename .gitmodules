@@ -37,3 +37,6 @@
 [submodule "sketch-styles-generator"]
 	path = sketch-styles-generator
 	url = https://github.com/lucaorio/sketch-styles-generator
+[submodule "Sketch-Find-And-Replace"]
+	path = Sketch-Find-And-Replace
+	url = https://github.com/mscodemonkey/Sketch-Find-And-Replace
