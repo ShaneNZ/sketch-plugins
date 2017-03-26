@@ -1,6 +1,13 @@
 # sketch-plugins
 All the plugins I use regularly, in one repo, for easy updating.
 
+# :red_circle: DONT BOTHER :red_circle:
+People with way more time (and probably way more smarter) than me have solved the problem. Dont do what I did, instead use either:
+- [SketchRunner](http://sketchrunner.com/) handles plugin installation/updates, and lots of other cool "Spotlight for Sketch" stuff too
+- [Sketchpacks](https://sketchpacks.com/) manages your plugins from the menubar, standalone from Sketch
+
+
+
 **Note:** this repo probably isn't really that useful to you directly, but how it works might be if you have the same problem I do. 
 
 ## Why have you done this?
